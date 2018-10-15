@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "777896668962",
+    "firebase_url": "https://authentication-b767c.firebaseio.com",
+    "project_id": "authentication-b767c",
+    "storage_bucket": "authentication-b767c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777896668962:android:5b35bc0f47955725",
+        "android_client_info": {
+          "package_name": "com.example.hp.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777896668962-l5ogd79045f5is0pr00modqkktb57sq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.authentication",
+            "certificate_hash": "e2c9d41f585aa38f815107e7726f08a7d9e8befa"
+          }
+        },
+        {
+          "client_id": "777896668962-d997jsog3helrq4v4ua7trn1hqprrn8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvC1vl-Yr9Yet5eeE2vp7mN0h7brIdnm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777896668962-d997jsog3helrq4v4ua7trn1hqprrn8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
